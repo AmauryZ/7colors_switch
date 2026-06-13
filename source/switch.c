@@ -97,7 +97,7 @@ int entree(int joueur) { //fonction permettant d'entrer des coups. B retourne 1 
             val = 6;
         else if (kUp)
         {
-            printf("Veuillez appuyer sur une touche valide\n");
+            printf("Please press a valid key\n");
             consoleUpdate(NULL);
         }
     }
