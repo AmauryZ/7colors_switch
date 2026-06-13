@@ -1,6 +1,7 @@
 This is a switch port of a game I made in C inspired by the game 7 Colors (https://en.wikipedia.org/wiki/7_Colors).
 
-<img width="860" height="568" alt="Game preview" src="https://github.com/user-attachments/assets/40d8f858-0d09-455c-af75-b31c73710f5d" />
+<img width="1261" height="887" alt="game preview" src="https://github.com/user-attachments/assets/f955072b-e21d-4666-a963-0dc32c0011ff" />
+
 
 ## Controls
 
