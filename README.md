@@ -4,9 +4,6 @@ This is a switch port of a game I made in C inspired by the game 7 Colors (https
   
 https://github.com/user-attachments/assets/88a2c6a5-699e-4e85-804e-f86abd69fdf2
 
-## Bots
--
-
 ## Available opponent strategies
 - Randy (random color)
 - Randy_Jr (random color among the available colors)
