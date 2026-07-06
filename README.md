@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/88a2c6a5-699e-4e85-804e-f86abd69fdf2
 - Hegemonic_Jr (identical to Hegemonic, except that it switches to "greedy" mode when it can no longer maximize the boundaries)
 - Boyard (farthest cell on the grid)
 
+## Controls
 | Letter | Key |
 |--------|-----|
 | A | A |
