@@ -1,6 +1,5 @@
 # 7 Colors
-<p align="center"><img src="https://raw.githubusercontent.com/AmauryZ/7colors_switch/refs/heads/main/Filler-1990.jpg">  
-<a href="https://github.com/AmauryZ/7colors_switch/releases/latest"><img src="https://img.shields.io/github/downloads/AmauryZ/7colors_switch/latest/total" alt="Latest Release" /></a> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/AmauryZ/7colors_switch/refs/heads/main/Filler-1990.jpg"> </p>
 This is a switch port of a game I made in C inspired by the game 7 Colors (https://en.wikipedia.org/wiki/7_Colors).
   
 https://github.com/user-attachments/assets/88a2c6a5-699e-4e85-804e-f86abd69fdf2
